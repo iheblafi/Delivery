@@ -27,7 +27,7 @@
       "package":"com.MobileTransport",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBccwArXHajY_5ncPMKrr98rHOzYJt-_hs"
+          "apiKey": "AIzaSyBccwArXHajY_5ncPMKrr98rHOzYJt"
         },
         "permissions" : ["ACCESS_COARSE_LOCATION",
          "ACCESS_FINE_LOCATION", 
